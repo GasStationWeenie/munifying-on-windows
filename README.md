@@ -1,4 +1,4 @@
-# munifying on Windows 11 (the easy way, not the PP way)
+# munifying on Windows 11 (the easy way)
 
 Many users have complained about the difficulty of finding RF addresses as well as downgrading the dongle to a lower vulnerable firmware revision if needed.  The following is the easiest way to find paired RF addresses for a Unifying dongle and perform downgrade operations through Windows.
 
